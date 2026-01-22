@@ -6,7 +6,7 @@ Outil de recherche de photos etudiants pour Omnivox.
 
 ### Etape 1 : Telecharger le script
 
-Cliquez sur `app.js` puis sur le bouton **Download** ou **Raw** pour copier le code.
+Cliquez sur [`app.js`](app.js) puis sur le bouton **Download** ou **Raw** pour copier le code.
 
 ### Etape 2 : Ouvrir Omnivox
 
